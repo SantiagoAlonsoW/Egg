@@ -13,6 +13,7 @@ public class Alumno {
     
     private String Nombre;
     private double Nota;
+    
 
     public Alumno() {
     }
@@ -36,6 +37,10 @@ public class Alumno {
 
     public void setNota(double Nota) {
         this.Nota = Nota;
+    }
+    
+    public void hola(){
+        
     }
     
 }
